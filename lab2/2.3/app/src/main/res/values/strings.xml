@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="my_name">Палій Дмитро КП-83</string>
+    <string name="label_first">First number</string>
+    <string name="label_second">Second number</string>
+    <string name="label_ops">Operation</string>
+    <string name="eval_btn">Evaluate</string>
+    <string name="result_label">Result: </string>
+    <string-array name="operations">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>

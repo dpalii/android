@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_ukraine">Ukraine</string>
+    <string name="btn_turkey">Turkey</string>
+    <string name="btn_poland">Poland</string>
+
+    <string name="desc_poland">Country: Poland</string>
+    <string name="desc_ukraine">Country: Ukraine</string>
+    <string name="desc_turkey">Country: Turkey</string>
+</resources>
